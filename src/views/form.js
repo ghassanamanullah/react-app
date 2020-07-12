@@ -1,5 +1,7 @@
 import React from 'react';
-
+/* 
+codingan untuk  form
+*/
 class Form extends React.Component {
   constructor(props) {
     super(props);

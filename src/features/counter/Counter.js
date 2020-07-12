@@ -6,7 +6,9 @@ import {
   incrementAsync,
   selectCount,
 } from './counterSlice';
-
+/* 
+codingan untuk  counter 
+*/
 export function Counter() {
   const count = useSelector(selectCount);
   const dispatch = useDispatch();

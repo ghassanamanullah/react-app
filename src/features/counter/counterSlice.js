@@ -1,5 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
-// import fetch from 'cross-fetch';
+/* 
+codingan untuk  counter 
+*/
 
 export const counterSlice = createSlice({
   name: 'counter',

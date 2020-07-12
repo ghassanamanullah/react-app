@@ -8,7 +8,9 @@ import {
 } from 'react-router-dom';
 import {Form, List, LiftingStateUp, Hooks} from './views';
 import './App.css';
-
+/* 
+codingan untuk menampilkan router dan counter 
+*/
 function App() {
   const numbers = [1, 2, 3, 4, 5];
   return (

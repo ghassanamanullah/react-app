@@ -1,5 +1,7 @@
 import React from 'react';
-
+/* 
+codingan untuk lifting state up
+*/
 class TimeInput extends React.Component{
  
     _handleChange = (e) => {

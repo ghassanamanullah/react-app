@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { Context } from './views/context';
-// import store from './app/store';
 import { Provider } from 'react-redux';
 import reducer from './reducers';
 import thunk from 'redux-thunk';

@@ -1,6 +1,8 @@
 import React, { useContext } from 'react';
 import { Context } from './context';
-
+/* 
+codingan untuk  hooks
+*/
 function Hooks() {
   const { bahasa, tema, onLangChange, onThemeChange } = useContext(Context);
 
